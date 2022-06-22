@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "5f159b6fa52c22b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6acebb12dc5f447",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Languages/Python/Data Science/Machine learning/Scikit-learn/Pre-Processing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebe8381719536451",
+    "type": "split",
+    "children": [
+      {
+        "id": "386bcddffcd9876f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aa0d1b77e40c508",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "497096737f01658a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27897bee715fdd27",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d7da244d335da6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe021cf242f9b966",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/Python/Data Science/Machine learning/Scikit-learn/Pre-Processing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f6acebb12dc5f447",
+  "lastOpenFiles": [
+    "Languages/Python/Data Science/Machine learning/Scikit-learn/Pre-Processing.md",
+    "Python/Vanilla/JSON in Python.md",
+    "Cheatsheets/Regex_cheatsheet.pdf",
+    "Python/Vanilla/Collections.md",
+    "home/shayan/Desktop/Notes/Code/Python/Vanilla/OOP.md",
+    "Json in Python 36dd71940a4c41cda7479d1b2b88865f/Screenshot_from_2022-03-05_18-18-09.png.md",
+    "File.md",
+    "Python/Vanilla/File objects.md",
+    "File objects .md",
+    "File objects bae1a4eb870f42e589972ebac12406fd.md"
+  ]
+}
