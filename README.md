@@ -12,4 +12,5 @@
 - Machine-learning
 - Scikit learn
 - SQL
+- R
 
