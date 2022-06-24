@@ -11,7 +11,7 @@ name <- "shayan"
 
 ---
 ## Datatype 
-To view datatype use class(variable)
+- To view datatype use class([[Variables and Data types#Variables |Variable]])
 
 ### Logical 
 - Boolean values 
@@ -33,3 +33,18 @@ To view datatype use class(variable)
 - Written in ""
 - Alphabetical characters 
 - "Shayan"
+
+---
+## Using variables with [[Operators]]
+```R 
+variable1 + variable2
+```
+```R
+variable1 - variable2
+```
+```R
+variable1 * variable2
+```
+```R
+variable1 / variable2
+```
