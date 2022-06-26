@@ -27,3 +27,14 @@ variable <- c(vector1, vector2)
 ```
 
 *If you concatenate different datatypes then everything is converted into character datatype*
+
+---
+## Using math functions with vectors
+```R
+sum(v1) # Add the values in a vector
+sd(v1) # Finds the standard deviation
+var(v1) # To display the variance
+prod(v1) # Give the product of the vector values
+max(v1) # Returns the maximum value
+min(v1) # Returns the minimun value
+```
