@@ -12,5 +12,6 @@
 - Machine-learning
 - Scikit learn
 - SQL
+- Streamlit
 - R
 

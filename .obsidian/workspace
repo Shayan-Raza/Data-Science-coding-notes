@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/Python/Data Science/Machine learning/Scikit-learn/Pre-Processing.md",
+            "file": "Languages/Python/Data Science/Data Analysis/Streamlit/Streamlit.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Python/Data Science/Machine learning/Scikit-learn/Pre-Processing.md",
+                "file": "Languages/Python/Data Science/Data Analysis/Streamlit/Streamlit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "f6acebb12dc5f447",
   "lastOpenFiles": [
+    "Languages/Python/Data Science/Data Analysis/Streamlit/Streamlit.md",
     "Languages/Python/Data Science/Machine learning/Scikit-learn/Pre-Processing.md",
     "Python/Vanilla/JSON in Python.md",
     "Cheatsheets/Regex_cheatsheet.pdf",
@@ -97,7 +98,6 @@
     "Json in Python 36dd71940a4c41cda7479d1b2b88865f/Screenshot_from_2022-03-05_18-18-09.png.md",
     "File.md",
     "Python/Vanilla/File objects.md",
-    "File objects .md",
-    "File objects bae1a4eb870f42e589972ebac12406fd.md"
+    "File objects .md"
   ]
 }
