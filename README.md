@@ -13,5 +13,6 @@
 - Scikit learn
 - SQL
 - Streamlit
+- OpenCV
 - R
 
