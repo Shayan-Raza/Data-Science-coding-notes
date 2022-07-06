@@ -2,7 +2,7 @@
 
 **Creating a blank image**
 ```Python 
-blank = np.zeros((500,500) dtype="unit8")
+blank = np.zeros((500,500), dtype="uint8")
 ```
 
 **Changing color of the image**
