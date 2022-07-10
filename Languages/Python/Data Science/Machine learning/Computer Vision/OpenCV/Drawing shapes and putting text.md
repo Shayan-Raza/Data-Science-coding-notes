@@ -1,26 +1,27 @@
 # Drawing shapes and putting text
 
-**Creating a blank image**
+##### Creating a blank image
 ```Python 
 blank = np.zeros((500,500), dtype="uint8")
 ```
 
-**Changing color of the image**
+
+###### Changing color of the image
 ```Python
 variable[:] = R,G,B #Selects all the pixel in the image 
 ```
 
-**Drawing a rectangle**
+##### Drawing a rectangle
 ```Python 
 cv.rectangle(variable, (origin), (end), (color), thickness=2)
 ```
 
-**Drawing a line**
+##### Drawing a line
 ```Python 
 cv.line(image, (point1), (point2), (color), thickness=1)
 ```
 
-**Text**
+##### Text
 ```Python 
 cv.putText(image, "Hello", (255,255), cv.FONT_FONT, 1.0, (0,255,0), 2)
 ```
