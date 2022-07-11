@@ -4,8 +4,7 @@
 ```Python 
 blank = np.zeros((500,500), dtype="uint8")
 ```
-
-
+￼
 ###### Changing color of the image
 ```Python
 variable[:] = R,G,B #Selects all the pixel in the image 
