@@ -29,4 +29,4 @@ for i,col in enumerate(colors):
 	plt.xlim([0,256])
 
 plt.show()
-```MANGOHUD_DLSYM=1
+```
