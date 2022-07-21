@@ -1,4 +1,3 @@
-# Graphs 
 ## Setting the size of the Graph 
 ```Python
 plt.figure(figsize=(22,8))
@@ -75,6 +74,8 @@ plt.plot(years, apples, 's-b')
 ***Using the Seaborn library***
 ```Python 
 sns.set_style("whitegrid")
+elif percent_timeframe == "60d" : 
+    df_change["quote_USD_percent_change_60d"].plot(kind="barh")
 ```
 [List of styles](https://jovian.ai/outlink?url=https%3A%2F%2Fseaborn.pydata.org%2Fgenerated%2Fseaborn.set_style.html)
 

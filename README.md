@@ -12,6 +12,7 @@
 - Machine-learning
 - Scikit learn
 - SQL
+- SQL Lite
 - Streamlit
 - OpenCV
 - R
