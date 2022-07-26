@@ -16,4 +16,5 @@
 - Streamlit
 - OpenCV
 - R
+- Bash scripting
 
